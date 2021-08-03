@@ -162,7 +162,7 @@ if __name__ == '__main__':
 
 Код примеров можно найти на gitgub:
 
-[https://github.com/piratarusso/zarticles/blob/main/pygubuexamples.zip](https://github.com/piratarusso/zarticles/blob/main/pygubuexamples.zip)
+[https://github.com/piratarusso/zarticle/(https://github.com/piratarusso/zarticle/)
 
 ## Дополнительные ресурсы
 
